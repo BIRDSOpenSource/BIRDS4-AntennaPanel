@@ -59,7 +59,14 @@ BIRDS-4 has 1 main missions in total; APRS Store and forward mission
 └── mount_top.pdf
 
 ```
+> [!CAUTION]
+> The files `.sch` and `.brd` files in this repositiry were created using Eagle software.
+ 
+For those that want to import these files into 
+KiCAD7 [here's how you do it](https://community.element14.com/technologies/open-source-hardware/b/blog/posts/working-with-kicad-7-importing-eagle-files) 
+ or KiCAD5.1 [here's how you do it](https://www.youtube.com/watch?v=RBc02MwpKxk&t=1s).
 
+ 
 ## Features
 
 
