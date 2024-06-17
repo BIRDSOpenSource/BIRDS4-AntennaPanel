@@ -7,7 +7,7 @@
 
 
 <img  width="25%" src="https://github.com/BIRDSOpenSource/BIRDS4-ProceduresAndReports/assets/100206676/055720a1-5845-43c9-b26e-dfcc6dc78b23"> 
-<img width="25%" src="https://github.com/BIRDSOpenSource/BIRDS4-ProceduresAndReports/assets/100206676/4adeca5e-c683-47f9-b4a4-c95ebf40f177">
+<img width="35%" src="https://github.com/BIRDSOpenSource/BIRDS4-ProceduresAndReports/assets/100206676/4adeca5e-c683-47f9-b4a4-c95ebf40f177">
 
 
 # BIRDS4-AntennaPanel
